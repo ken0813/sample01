@@ -3,10 +3,8 @@ aaa
 bbb
 ccc
 ddd
-<<<<<<< HEAD
-=======
 eee
->>>>>>> jap
 fff
 ggg
+hhh
 
